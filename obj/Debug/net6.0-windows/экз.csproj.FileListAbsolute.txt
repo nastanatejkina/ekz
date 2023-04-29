@@ -1,0 +1,17 @@
+D:\users\student\Desktop\exam\экз\bin\Debug\net6.0-windows\экз.exe
+D:\users\student\Desktop\exam\экз\bin\Debug\net6.0-windows\экз.deps.json
+D:\users\student\Desktop\exam\экз\bin\Debug\net6.0-windows\экз.runtimeconfig.json
+D:\users\student\Desktop\exam\экз\bin\Debug\net6.0-windows\экз.dll
+D:\users\student\Desktop\exam\экз\bin\Debug\net6.0-windows\экз.pdb
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.csproj.AssemblyReference.cache
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.Form1.resources
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.csproj.GenerateResource.cache
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.AssemblyInfoInputs.cache
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.AssemblyInfo.cs
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.csproj.CoreCompileInputs.cache
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.dll
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\refint\экз.dll
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.pdb
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\экз.genruntimeconfig.cache
+D:\users\student\Desktop\exam\экз\obj\Debug\net6.0-windows\ref\экз.dll
